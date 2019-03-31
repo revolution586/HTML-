@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style type = "text/css>
+<!--
+.tab {margin-left: 40px;}
+</style>
+<title>freemaniscoding.com</title>
+</head>
+<body>
+<p class = "tab"> Hello, this is me! </p>
+</body>
+</html>
+
+//you create a style class in between <head> and </head>, at which you then add <p class = "tab"> instead of <p> to indent that
+specific paragraph//
