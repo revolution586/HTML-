@@ -1,0 +1,8 @@
+<form>
+  First Name:<br>
+  <input type="text" name=firstname</br>
+  Last Name:<br>
+  <input type="text" name-lastname</br>
+</form>
+
+//This is the code you must use in order to create a box
