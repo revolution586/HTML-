@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<body>
+  <button onclick = "myFunction()"> Click me </button>
+  <p id="demo"></p>
+<script>
+  function myFunction() {
+    document.getElementById("demo").innerHTML = "Hello World";
+   }
+</script>
+</body>
+</html>
+
+//The following code is used to press a button which in turn creates a result//
