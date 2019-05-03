@@ -1,0 +1,4 @@
+//An alternative to indenting an entire block of content can be done by the following//
+<center> This is a paragraph.
+<p> This is also a paragraph </p></center>
+//This in turn will put the entire block of text into the center of the website//
