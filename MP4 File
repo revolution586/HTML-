@@ -1,0 +1,5 @@
+//In order to embed a mp4 file to the website, you must insert the following code//
+<video width="320" height="240" controls>
+  <source src="C:\Users\James\Videos\MyVideos\Vacation in Chile.mp4" type="video/mp4">
+</video>
+//You can set the dimensions however you want, and be sure to position the video the right way using indent code//
