@@ -1,0 +1,6 @@
+//To add a thumbnail to your video, you must add the following code//
+<video width="640" height="360" poster="C:\Users\James\Videos\My Videos\Thumbnails\video.png" controls>
+  <source src = "C:\Users\Tolga\Videos\The Neophyte Courier\Videos\video.mp4">
+</video>
+//To add onto this, you must match the dimensions of your videos with the written code to get the best format
+by 'right click on video file' --> 'Properties' --> 'Details'//
