@@ -14,3 +14,5 @@
 
 //you create a style class in between <head> and </head>, at which you then add <p class = "tab"> instead of <p> to indent that
 specific paragraph//
+//to indent a video, add <p class = "tab"> in front of <video></video> and don't add </p> at the end as that will make the video
+unable to function//
