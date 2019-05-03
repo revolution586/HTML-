@@ -1,0 +1,16 @@
+//To change the font of a text for a specific paragraph <p></p>, you must use the following code//
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>HTML Font</title>
+   </head>
+
+   <body>
+      <h1>Our Products</h1>
+      <p style = "font-family:georgia,garamond,serif;font-size:16px;font-style:italic;">
+         This is demo text
+      </p>
+   </body>
+//[font-family:] is code for the style of the font (Arial, Garamond, Serif)//
+//[font-size:] is code to set the font size//
+//[font-style:] is code used for setting the format of the text (italic, bold)//
