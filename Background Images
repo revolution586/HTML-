@@ -1,0 +1,17 @@
+//To create a background image for a HTML5 site, write the following code//
+<!DOCTYPE html>
+<html>
+<title>My Page</title>
+<head>
+  <style>
+   body {
+    background-image: url("myimage.jpg");
+   }
+   </style>
+</head>
+
+<body>
+<h1> Whatsup! </h1>
+<p> This is a background image! </p>
+</body>
+</html>
