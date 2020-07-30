@@ -59,4 +59,109 @@ a:active {
   text-decoration: none;
 }
 
-#viewtimeline a:link
+#viewtimeline a:link { color: #fff;}
+#viewtimeline a:visited { color: #fff;}
+#viewtimeline a:hover { color: #ff0;}
+#viewtimeline a:active { color: #000;}
+#viewtimeline a:link {color: #000;}
+#viewtimeline a:visited {color: #000;}
+#viewtimeline a:hover {color: #000;}
+#viewtimeline a:active {color: #000;}
+
+#wrapper_topmost { width: 1200px;
+    margin: auto;
+    border: 0px;
+}
+
+#wrapper { width: 1200px;
+    margin: auto;
+    border: 0px;
+    border-left: 1px solid #333333;
+    border-right: 1px solid #333333;
+    background-color: rgba(255, 255, 255, 0.8);
+    margin:auto;
+    border-bottom:1px solid #333333;
+}
+
+#menu {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    font-size: 1.2em;
+    float:left;
+    position: relative
+}
+
+// CSS for each Parent Item //
+#menu li {float: left; position: relative;}
+
+#menu li a
+{
+    float: left;
+	display: block;
+	padding: 4px;
+	text-decoration: none;
+	color: #666;
+	text-transform: uppercase;
+	margin-right: 10px;
+}
+
+
+// Change background color and font color //
+#menu li {float: left, position: relative;}
+
+#menu li a
+{
+	float: left;
+	display: block;
+	padding: 4px;
+	text-decoration: none;
+	color: #666;
+	text-transform: uppercase;
+	margin-right: 10px;
+}
+
+// Change background color and font color of parent items when mouse hover //
+
+#menu li:hover a,
+#menu li a:hover
+{
+	background: #999;
+	color: #fff;
+}
+
+// Apply to group of Child Items //
+// Each Child Item will be invisible by default //
+
+#menu ul {display: none;}
+
+// Each Child Item will be visible if mouse hover  //
+#menu li:hover ul {display: block;}
+
+#menu ul
+{
+	float: none;
+	position: absolute;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	top: 1.6em;
+	left:0;
+}
+
+#menu ul li
+{
+	float: none;
+	clear: none;
+	margin: 0;
+	padding: 0;
+	width: auto;
+	color: #999;
+}
+
+
+
+
+
+
+
